@@ -1,7 +1,7 @@
 # Homework list
 - [ ] [Exercise_01:]() 
 - [ ] [Exerscis_02:spell my name](https://www.zybuluo.com/nan-zhang/note/505284) 
-- [ ] [Exercise_03:]() 
+- [ ] [Exercise_03:让你的名字动起来](https://www.zybuluo.com/nan-zhang/note/513169) 
 - [ ] [Exercise_04:]() 
 - [ ] [Exercise_05:]() 
 - [ ] [Exercise_06:]() 
