@@ -6,4 +6,4 @@
 - [ ] [Exercise_05:sectino two: question 2.6](https://www.zybuluo.com/nan-zhang/note/534137) 
 - [ ] [Exercise_06:sectino two: question 2.10](https://www.zybuluo.com/nan-zhang/note/542418) 
 - [ ] [Exercise_07:question 2.12 2.13 2.14](https://www.zybuluo.com/nan-zhang/note/558042) 
-- [ ] [Exercise_08:]() 
+- [ ] [Exercise_08:question 3.20](https://www.zybuluo.com/nan-zhang/note/565996) 
